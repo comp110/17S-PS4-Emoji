@@ -5,12 +5,11 @@ import javafx.scene.paint.Color;
 
 public class FaceShape {
 
-    // Instance Variable
+    // Field
     private Color _tone;
 
     // Constructor
     public FaceShape(Color tone) {
-        // Initialization of instance variables happens in the constructor.
         _tone = tone;
     }
 
